@@ -37,6 +37,11 @@
 		{
 			"Name": "DatasmithRuntime",
 			"Enabled": true
+		},
+		{
+			"Name": "SecondWindow",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d18fbf9e72564899a082943ecf5a0524"
 		}
 	]
 }
